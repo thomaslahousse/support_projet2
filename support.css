@@ -1,0 +1,89 @@
+body {
+	background-color: pink;
+}
+/* 1er PAGE D'ACCUEIL */
+	/* menu */
+.menu {
+  position: fixed;
+  width: 100%;
+  background-image: url('galaxy.jpg');
+  
+}
+.menulist, a{
+	text-decoration: none;
+	 position: relative;
+	 margin-left: 0px;
+	 padding-left: 10px;
+	 color: white;
+}
+.code_combat {
+	position: relative;
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+}
+/* image code combat */
+.image_code_combat {
+	margin-top: 170px;
+	width: 100%;
+}
+.page_accueil {
+	position: relative;
+	text-align: center;
+	color: red;
+	font-size: 20px;
+}
+.prog_en_jou {
+	text-align: center;
+	font-size: 25px;
+}
+.image_code_combat2 {
+	width: 100%;
+}
+ /* 2nd PAGE DE PRESENTATION */
+ .page_presentation {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+}
+.appr_prog {
+	color: blue;
+}
+.appr_prog:hover {
+	color: red;
+}
+.image_5_1 {
+	width: 100%;
+}
+.image_code_combat_2et3 div {
+	background-color: blue;
+	width: 100px;
+}
+/* 3 eme PAGE PRESENTATION DE LA PERSONNE */
+.thomas_lahousse {
+	text-align: center;
+	font-size: 30px;
+	color: red;
+}
+.thomas_lahousse2 {
+	text-align: center;
+	font-size: 20px;
+	color: blue;
+}
+.infos_perso {
+	margin-top: 10px;
+	color: black;
+}
+.infos_perso:hover {
+	color: green;
+	font-size: 30px;
+}
+/* 4 eme PAGE CONTACT */
+.contact {
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+.etoile {
+	width: 12px;
+}
